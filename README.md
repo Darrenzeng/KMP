@@ -1,5 +1,6 @@
 # KMP
 KMP Getnext[] Getnextval
+
  typedef struct{
  	int length;
  	char *ch;
