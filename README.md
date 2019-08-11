@@ -25,6 +25,7 @@ KMP Getnext[] Getnextval
  }
  
  void getnext(Str substr,int next[])
+ 
  {
  	int i=1;
  	int t=0;
@@ -44,6 +45,7 @@ KMP Getnext[] Getnextval
  }
  
  void get_nextval(Str substr,int nextval[])
+ 
  {
  	int i=1;
  	int t=0;
