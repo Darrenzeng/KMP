@@ -1,0 +1,2 @@
+# KMP
+KMP Getnext[] Getnextval
