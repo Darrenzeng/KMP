@@ -7,6 +7,7 @@ KMP Getnext[] Getnextval
  }Str;
  
  void KMP(Str str,Str substr,int next[])
+ 
  {
  	int i,j;
  	i=j=1;
