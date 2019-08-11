@@ -5,6 +5,7 @@ KMP Getnext[] Getnextval
  	int length;
  	char *ch;
  }Str;
+ 
  void KMP(Str str,Str substr,int next[])
  {
  	int i,j;
